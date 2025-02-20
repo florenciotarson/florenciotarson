@@ -1,4 +1,4 @@
-# 👋🏿 Hello, I'm Tarson Marcelo Florencio!  
+#  Hello y'all, I'm Tarson Marcelo Florencio!  
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
 💻 **Python | Automation | Linux | Security Engineering**  
