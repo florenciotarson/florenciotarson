@@ -1,4 +1,5 @@
-# 🤙🏿 Hello, I'm Tarson Marcelo Florencio!  
+# 👋🏿 Hello, I'm Tarson Marcelo Florencio!  
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
 💻 **Python | Automation | Linux | Security Engineering**  
@@ -7,13 +8,20 @@
 ---
 
 ## 🚀 OXE Collective  
-[![OXE Collective](https://imgur.com/a/jiKE6WV.png)](https://www.oxecollective.com)
+[![OXE Collective](https://i.imgur.com/2ocoeAo.png)](https://www.oxecollective.com)
 
-**OXE Collective** is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
+OXE Collective is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
 OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into my professional background, the OXE Collective mission, and potential collaborations.  
 
-> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
-> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
+🚀 **Built With:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-05D362?style=flat&logo=upstash&logoColor=white)
+![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+> **🔗 Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
+> **💻 Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
 
 ---
 
@@ -22,6 +30,27 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 > Repository for the OXE Collective project, featuring AI-driven automation.  
 > 🚀 If you're part of the team, access it here: [OXE Collective (Private Repo)](https://github.com/florenciotarson/oxecollective/tree/dev)  
 > 🔐 **This repository is private and requires access permissions.**
+
+---
+
+## 📦 Dependencies Used in OXE Collective (Private Repo)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?style=flat&logo=fastapi)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?style=flat&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)
+
+---
+
+## 🚀 Languages Used in OXE Collective (Private Repo)
+- 🐍 **Python** (FastAPI, AI integrations)
+- ⚛️ **Next.js** (Frontend Framework)
+- 🎨 **Tailwind CSS** (Styling & UI)
+- 🗄️ **SQL** (PostgreSQL, Redis)
+- ☁️ **Terraform** (Infrastructure as Code)
+- 🌍 **Vercel** (Deployment Platform)
+- ⚡ **Bash** (Automations & Scripting)
 
 ---
 
@@ -36,24 +65,6 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
   <img src="https://github-readme-stats.vercel.app/api?username=florenciotarson&show_icons=true&theme=dark" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=florenciotarson&theme=dark" width="48%">
 </p>
-
----
-
-## 🚀 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciotarson&layout=compact&theme=dark">
-</p>
-
----
-
-## 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-0073EC?style=flat&logo=okta&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ---
 
