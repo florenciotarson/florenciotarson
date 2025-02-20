@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Expanded About Me  
+##  About Me  
 🔒 **Security Engineer | IAM | IGA | Cybersecurity Analyst | Threat Detection**  
 💡 **Specialist in Identity & Access Management (IAM), Cloud Security, & Zero Trust Architectures**  
 💻 **Expert in Python, Automation, AWS, Azure, Okta, Auth0, & CI/CD Pipelines**  
@@ -46,6 +46,23 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 
 > **🔗 Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
 > **💻 Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+
+---
+
+## 🔒 Private Repositories  
+🚀 **OXE Collective** - *Private Repository*  
+
+Repository for the **OXE Collective** project, featuring **AI-driven automation**.  
+🔐 **This repository is private and requires access permissions.**  
+
+> 🚀 If you're part of the team, request access here:  
+> 📩 **[Request Access via GitHub Issue](https://github.com/florenciotarson/oxecollective/issues/new?title=Request+Access+to+Private+Repo&body=Hello!+I+would+like+to+request+access+to+OXE+Collective.+My+GitHub+username+is:+%5Byour_username%5D)**  
+
+> 📝 **Or request via Google Form:**  
+> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSfLNKOb-sH6pjwNynSdVOsx4OIcf3G2xiS0tTR-6J2eRkhOXw/viewform?usp=header)
+
+> 🔗 **Private Repo Link (Requires Access):**  
+> [![OXE Collective](https://img.shields.io/badge/Private_Repo-OXE_Collective-red?style=flat&logo=github)](https://github.com/florenciotarson/oxecollective/tree/dev)
 
 ---
 
