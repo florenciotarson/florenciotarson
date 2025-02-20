@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Tarson Marcelo Florencio!
 
-<!--
-**florenciotarson/florenciotarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Cybersecurity Analyst | 🛡️ Security Enthusiast  
+💻 Passionate about Python, Automation & Ethical Hacking  
+🚀 Always learning and improving  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tarsonmarceloflorencio)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/florenciotarson)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![Tarson's GitHub stats](https://github-readme-stats.vercel.app/api?username=florenciotarson&show_icons=true&theme=dark)
+
+## 🚀 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
