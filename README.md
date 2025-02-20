@@ -94,13 +94,63 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 
 ---
 
-## 📦 Dependencies Used in OXE Collective (Private Repo)  
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?style=flat&logo=fastapi)
+## 📦 Dependencies Used in OXE Collective (Private Repo)
+
+### Core Dependencies
+
+![Next.js](https://img.shields.io/badge/Next.js-13.5.4-blue?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-18.2.0-green?style=flat&logo=react)
+![React-Three-Fiber](https://img.shields.io/badge/React_Three_Fiber-8.17.14-yellow?style=flat&logo=react)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.16.4-pink?style=flat&logo=framer)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4.17-purple?style=flat&logo=tailwindcss)
 ![Redis](https://img.shields.io/badge/Redis-Cache-red?style=flat&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)
+![ContentLayer](https://img.shields.io/badge/ContentLayer-0.3.4-yellow?style=flat&logo=contentlayer)
+![i18next](https://img.shields.io/badge/i18next-24.2.2-lightblue?style=flat&logo=i18next)
+![Markdown](https://img.shields.io/badge/Markdown-Wasm-1.2.0-darkgray?style=flat&logo=markdown)
+![Vercel](https://img.shields.io/badge/Vercel-Analytics-1.4.1-blue?style=flat&logo=vercel)
+
+### Additional Libraries
+
+- **@next/mdx**: `^13.5.4` — For integrating MDX with Next.js.
+- **@react-three/drei**: `^9.121.5` — Useful helpers for React-Three-Fiber.
+- **@upstash/redis**: `^1.23.3` — Redis client for serverless environments.
+- **@vercel/speed-insights**: `^1.2.0` — A tool for measuring the performance of your Next.js app.
+- **esbuild**: `0.18.19` — Fast bundler and minifier.
+- **react-i18next**: `^15.4.0` — React bindings for the i18next framework.
+- **react-icons**: `^5.4.0` — A library to use icons in React components.
+- **react-wrap-balancer**: `^1.1.0` — A React component for balanced text wrapping.
+- **rehype-autolink-headings**: `^7.0.0` — Automatically add links to headings.
+- **rehype-pretty-code**: `^0.10.1` — Syntax highlighting for code blocks.
+- **rehype-slug**: `^6.0.0` — Automatically add slugs to headings.
+- **remark-gfm**: `3.0.1` — GitHub-flavored Markdown parsing.
+- **three**: `^0.173.0` — 3D rendering library used with React-Three-Fiber.
+
+### Development Dependencies
+
+- **@opentelemetry/api**: `1.4.1` — OpenTelemetry API for tracing and metrics.
+- **@tailwindcss/line-clamp**: `^0.4.4` — Tailwind plugin for line clamping.
+- **@tailwindcss/typography**: `^0.5.10` — Tailwind plugin for typography.
+- **@types/node**: `^20.8.4` — TypeScript types for Node.js.
+- **@types/react**: `^18.3.18` — TypeScript types for React.
+- **@types/react-dom**: `^18.2.13` — TypeScript types for ReactDOM.
+- **@types/three**: `^0.173.0` — TypeScript types for Three.js.
+- **autoprefixer**: `^10.4.20` — PostCSS plugin for adding vendor prefixes.
+- **postcss**: `^8.4.31` — PostCSS tool for transforming CSS.
+- **rome**: `^12.1.3` — Linter, formatter, and bundler.
+- **tailwindcss-debug-screens**: `^2.2.1` — Tailwind plugin for showing screen sizes in development.
+- **postcss-import**: `^16.1.0` — PostCSS plugin to inline `@import` statements.
+- **postcss-nesting**: `^10.0.0` — PostCSS plugin to handle CSS nesting.
+
+### Package Manager
+
+- **pnpm** — Fast, disk space efficient package manager for Node.js.
+
+### Engine Requirements
+
+- **Node.js**: `>=18.20.6`
 
 ---
 
