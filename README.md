@@ -109,8 +109,8 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)
 ![ContentLayer](https://img.shields.io/badge/ContentLayer-0.3.4-yellow?style=flat&logo=contentlayer)
 ![i18next](https://img.shields.io/badge/i18next-24.2.2-lightblue?style=flat&logo=i18next)
-![Markdown](https://img.shields.io/badge/Markdown-Wasm-1.2.0-darkgray?style=flat&logo=markdown)
-![Vercel](https://img.shields.io/badge/Vercel-Analytics-1.4.1-blue?style=flat&logo=vercel)
+![Vercel](https://github.com/username/repo-name/raw/main/assets/images/vercel-icon.png)
+![Markdown](https://github.com/username/repo-name/raw/main/assets/images/markdown-icon.png)
 
 ### Additional Libraries
 
