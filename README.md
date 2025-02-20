@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Tarson Marcelo Florencio!  
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 🤙🏿 Hello, I'm Tarson Marcelo Florencio!  
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
 💻 **Python | Automation | Linux | Security Engineering**  
@@ -8,13 +7,13 @@
 ---
 
 ## 🚀 OXE Collective  
-[![OXE Collective](https://imgur.com/a/jiKE6WV)](https://www.oxecollective.com)
+[![OXE Collective](https://imgur.com/a/jiKE6WV.png)](https://www.oxecollective.com)
 
 **OXE Collective** is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
 OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into my professional background, the OXE Collective mission, and potential collaborations.  
 
-> **🔗 Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
-> **💻 Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
+> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
 
 ---
 
