@@ -27,14 +27,20 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 ## 🔒 Private Repositories  
 🚀 **OXE Collective** - *Private Repository*  
 
-Repository for the OXE Collective project, featuring AI-driven automation.  
+Repository for the **OXE Collective** project, featuring **AI-driven automation**.  
 🔐 **This repository is private and requires access permissions.**  
 
 > 🚀 If you're part of the team, request access here:  
 > 📩 **[Request Access via GitHub Issue](https://github.com/florenciotarson/oxecollective/issues/new?title=Request+Access+to+Private+Repo&body=Hello!+I+would+like+to+request+access+to+OXE+Collective.+My+GitHub+username+is:+%5Byour_username%5D)**  
 
 > 📝 **Or request via Google Form:**  
-> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://forms.gle/YOUR_GOOGLE_FORM_LINK)
+> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSfLNKOb-sH6pjwNynSdVOsx4OIcf3G2xiS0tTR-6J2eRkhOXw/viewform?usp=header)
+
+> 🔗 **Private Repo Link (Requires Access):**  
+> [![OXE Collective](https://img.shields.io/badge/Private_Repo-OXE_Collective-red?style=flat&logo=github)](https://github.com/florenciotarson/oxecollective/tree/dev)
+
+---
+
 
 ---
 
