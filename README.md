@@ -1,4 +1,5 @@
-# Hello, I'm Tarson Marcelo Florencio!  
+# 👋 Hello, I'm Tarson Marcelo Florencio!  
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
 💻 **Python | Automation | Linux | Security Engineering**  
@@ -7,13 +8,21 @@
 ---
 
 ## 🚀 OXE Collective  
-[![OXE Collective](https://your-image-hosting.com/oxe-banner.png)](https://www.oxecollective.com)  
+[![OXE Collective](https://imgur.com/a/jiKE6WV)](https://www.oxecollective.com)
 
-**Welcome to OXE Collective**, an evolving platform that explores innovative concepts and impactful projects.  
-OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to provide insights into **my professional background**, the **OXE Collective mission**, and potential collaborations.  
+**OXE Collective** is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
+OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into my professional background, the OXE Collective mission, and potential collaborations.  
 
-🔗 **Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
-🔗 **Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+> **🔗 Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
+> **💻 Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+
+---
+
+## 🔒 Private Repositories  
+🚀 **OXE Collective** - *Private Repository*  
+> Repository for the OXE Collective project, featuring AI-driven automation.  
+> 🚀 If you're part of the team, access it here: [OXE Collective (Private Repo)](https://github.com/florenciotarson/oxecollective/tree/dev)  
+> 🔐 **This repository is private and requires access permissions.**
 
 ---
 
