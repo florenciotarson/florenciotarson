@@ -6,9 +6,20 @@
 
 ---
 
+## 🚀 OXE Collective  
+[![OXE Collective](https://your-image-hosting.com/oxe-banner.png)](https://www.oxecollective.com)  
+
+**Welcome to OXE Collective**, an evolving platform that explores innovative concepts and impactful projects.  
+OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to provide insights into **my professional background**, the **OXE Collective mission**, and potential collaborations.  
+
+🔗 **Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
+🔗 **Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+
+---
+
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarsonmarceloflorencio)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/florenciotarson)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/florenciotarson)  
 
 ---
 
