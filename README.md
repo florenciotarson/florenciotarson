@@ -1,5 +1,4 @@
 # Hello, I'm Tarson Marcelo Florencio!  
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
 💻 **Python | Automation | Linux | Security Engineering**  
