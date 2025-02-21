@@ -1,7 +1,7 @@
 #  Hello y'all, I'm Tarson Marcelo Florencio!  
 
 🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
-💻 **Python | Automation | Linux | Security Engineering**  
+💻 **Python | Next.JS | Automation | Linux | Security Engineering**  
 🌍 **Based in Brazil**  
 
 ---
@@ -9,7 +9,7 @@
 ##  About Me  
 🔒 **Security Engineer | IAM | IGA | Cybersecurity Analyst | Threat Detection**  
 💡 **Specialist in Identity & Access Management (IAM), Cloud Security, & Zero Trust Architectures**  
-💻 **Expert in Python, Automation, AWS, Azure, Okta, Auth0, & CI/CD Pipelines**  
+💻 **Expert in Python, Next.JS, Automation, Integration, Rest & Restful API, AWS, Azure, GCP, Okta, Auth0**  
 🌍 **Based in Brazil, Fluent in English, Portuguese, & Spanish (Limited Working Proficiency)**  
 
 ---
