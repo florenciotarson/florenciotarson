@@ -71,8 +71,8 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 ✅ **Okta Certified Administrator & Professional** 
 ✅ **Okta Activated**
 ✅ **Auth0 Specialist**
-✅ **Auth0 Consumer Application Implementation Champion**
-✅ **Auth0 Consumer Application Operations Champion** 
+✅ **Auth0 CAI Champion**
+✅ **Auth0 CAO Champion** 
 ✅ **Netskope Certified Cloud Security Administrator & Integrator (NKS100, NKS200)**  
 ✅ **Microsoft Azure & Security Fundamentals (AZ-900, SC-900)**  
 ✅ **Data Protection & Compliance (LGPD, GDPR)**   
