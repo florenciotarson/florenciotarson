@@ -44,8 +44,8 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 ![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-> **🔗 Visit OXE Collective** 👉 [OXE Website](https://www.oxecollective.com)  
-> **💻 Explore My Work** 👉 [GitHub](https://github.com/florenciotarson)  
+> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
+> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
 
 ---
 
