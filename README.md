@@ -67,14 +67,14 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 ---
 
 ## 🎓 Certifications & Training  
-✅ **AWS Certified Cloud Practitioner (CLF-C01)**  
-✅ **Okta Certified Administrator & Professional**  
 ✅ **Okta Activated**  
+✅ **Okta Certified Administrator & Professional**  
 ✅ **Auth0 Specialist**  
 ✅ **Auth0 Consumer Application Implementation Champion**  
 ✅ **Auth0 Consumer Application Operations Champion**   
-✅ **Netskope Certified Cloud Security Administrator & Integrator (NKS100, NKS200)**  
+✅ **AWS Certified Cloud Practitioner (CLF-C01)**  
 ✅ **Microsoft Azure & Security Fundamentals (AZ-900, SC-900)**  
+✅ **Netskope Certified Cloud Security Administrator & Integrator (NKS100, NKS200)**  
 ✅ **Data Protection & Compliance (LGPD, GDPR)**   
 ✅ **Forescout Engineer Certification**  
 
