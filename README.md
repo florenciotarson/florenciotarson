@@ -68,11 +68,14 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 
 ## 🎓 Certifications & Training  
 ✅ **AWS Certified Cloud Practitioner (CLF-C01)**  
-✅ **Okta Certified Administrator & Workforce Identity Cloud**  
-✅ **Netskope Certified Cloud Security Integrator (NKS100, NKS200)**  
+✅ **Okta Certified Administrator & Professional** 
+✅ **Okta Activated**
+✅ **Auth0 Specialist**
+✅ **Auth0 Consumer Application Implementation Champion**
+✅ **Auth0 Consumer Application Operations Champion** 
+✅ **Netskope Certified Cloud Security Administrator & Integrator (NKS100, NKS200)**  
 ✅ **Microsoft Azure & Security Fundamentals (AZ-900, SC-900)**  
-✅ **Data Protection & Compliance (LGPD, GDPR)**  
-✅ **Auth0 Consumer Application Operations Champion**  
+✅ **Data Protection & Compliance (LGPD, GDPR)**   
 ✅ **Forescout Engineer Certification**  
 
 ---
@@ -158,16 +161,6 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
   <img src="https://github-readme-stats.vercel.app/api?username=florenciotarson&show_icons=true&theme=dark" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=florenciotarson&theme=dark" width="48%">
 </p>
-
----
-
-## 🏆 Achievements:  
-✅ **AWS Certified Cloud Practitioner**  
-✅ **Okta Certified Administrator**  
-✅ **Netskope Certified Cloud Security Integrator**  
-✅ **Microsoft Security Certifications (AZ-900, SC-900)**  
-✅ **Data Protection & Compliance (LGPD, GDPR)**  
-✅ **Forescout Engineer Certified**  
 
 ---
 
