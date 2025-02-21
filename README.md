@@ -171,12 +171,6 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 
 ---
 
-## 🐍 Contribution Activity:  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/florenciotarson/florenciotarson/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ## 🚀 Want to collaborate?  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/tarsonmarceloflorencio) or check out my projects on [GitHub](https://github.com/florenciotarson)! 😃
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/tarsonmarceloflorencio) or check out my projects on [GitHub](https://github.com/florenciotarson)! 
