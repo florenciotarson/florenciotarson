@@ -31,42 +31,7 @@ I specialize in **Identity and Access Governance (IAM/IGA)** with extensive expe
 
 ---
 
-## 🚀 OXE Collective  
-[![OXE Collective](https://i.imgur.com/2ocoeAo.png)](https://www.oxecollective.com)
-
-OXE Collective is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
-OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into my professional background, the OXE Collective mission, and potential collaborations.  
-
-🚀 **Built With:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-05D362?style=flat&logo=upstash&logoColor=white)
-![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
-> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
-
----
-
-## 🔒 Private Repositories  
-🚀 **OXE Collective** - *Private Repository*  
-
-Repository for the **OXE Collective** project, featuring **AI-driven automation**.  
-🔐 **This repository is private and requires access permissions.**  
-
-> 🚀 If you're part of the team, request access here:  
-> 📩 **[Request Access via GitHub Issue](https://github.com/florenciotarson/oxecollective/issues/new?title=Request+Access+to+Private+Repo&body=Hello!+I+would+like+to+request+access+to+OXE+Collective.+My+GitHub+username+is:+%5Byour_username%5D)**  
-
-> 📝 **Or request via Google Form:**  
-> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSfLNKOb-sH6pjwNynSdVOsx4OIcf3G2xiS0tTR-6J2eRkhOXw/viewform?usp=header)
-
-> 🔗 **Private Repo Link (Requires Access):**  
-> [![OXE Collective](https://img.shields.io/badge/Private_Repo-OXE_Collective-red?style=flat&logo=github)](https://github.com/florenciotarson/oxecollective/tree/dev)
-
----
-
-## 🎓 Certifications & Training  
+## 🎓 Certifications    
 ✅ **Okta Activated**  
 ✅ **Okta Certified Administrator & Professional**  
 ✅ **Auth0 Specialist**  
@@ -94,6 +59,41 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 ### 📌 DevSecOps & Infrastructure Security  
 - Built **CI/CD pipelines** for secure deployments using **Terraform, Docker, Kubernetes, & GitHub Actions**.  
 - Automated security assessments & compliance monitoring for **PCI DSS, ISO 27001, and NIST 800-53**.  
+
+---
+
+## 🚀 OXE Collective  
+[![OXE Collective](https://i.imgur.com/2ocoeAo.png)](https://www.oxecollective.com)
+
+OXE Collective is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
+OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into the OXE Collective mission.  
+
+🚀 **Built With:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-05D362?style=flat&logo=upstash&logoColor=white)
+![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
+> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
+
+---
+
+## 🔒 Private Repositories  
+🚀 **OXE Collective** - *Private Repository*  
+
+Repository for the **OXE Collective** project, featuring **AI-driven automation**.  
+🔐 **This repository is private and requires access permissions.**  
+
+> 🚀 If you're part of the team, request access here:  
+> 📩 **[Request Access via GitHub Issue](https://github.com/florenciotarson/oxecollective/issues/new?title=Request+Access+to+Private+Repo&body=Hello!+I+would+like+to+request+access+to+OXE+Collective.+My+GitHub+username+is:+%5Byour_username%5D)**  
+
+> 📝 **Or request via Google Form:**  
+> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSfLNKOb-sH6pjwNynSdVOsx4OIcf3G2xiS0tTR-6J2eRkhOXw/viewform?usp=header)
+
+> 🔗 **Private Repo Link (Requires Access):**  
+> [![OXE Collective](https://img.shields.io/badge/Private_Repo-OXE_Collective-red?style=flat&logo=github)](https://github.com/florenciotarson/oxecollective/tree/dev)
 
 ---
 
