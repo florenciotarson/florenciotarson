@@ -52,7 +52,7 @@ I specialize in **Identity and Access Governance (IAM/IGA)** with extensive expe
 - Integrated **authentication security protocols (OAuth, SAML, OpenID, SCIMv2, FIDO2, RADIUS, WS-Fed).**  
 
 ### 🌐 Threat Detection & SOC Experience  
-- Monitored security threats using **Splunk, FortiSIEM, CrowdStrike, Trellix, and Netskope**.  
+- Monitored security threats using **Splunk, FortiSIEM, Seceon Siem, CrowdStrike, Trellix EDR, and Netskope**.  
 - Developed **SIEM dashboards & log analysis queries** to detect vulnerabilities.  
 - Implemented **adaptive security controls & encryption techniques** (RSA, AES).  
 
@@ -76,7 +76,6 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 > **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
-> **💻 Explore My Work**  [GitHub](https://github.com/florenciotarson)  
 
 ---
 
@@ -112,7 +111,6 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)
 ![ContentLayer](https://img.shields.io/badge/ContentLayer-0.3.4-yellow?style=flat&logo=contentlayer)
 ![i18next](https://img.shields.io/badge/i18next-24.2.2-lightblue?style=flat&logo=i18next)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Additional Libraries
 
