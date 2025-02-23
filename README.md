@@ -73,7 +73,6 @@ OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash-05D362?style=flat&logo=upstash&logoColor=white)
 ![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 > **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
 
