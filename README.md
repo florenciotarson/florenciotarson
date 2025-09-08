@@ -39,7 +39,7 @@ I specialize in **Identity and Access Governance (IAM/IGA)** with extensive expe
 ✅ **Auth0 Consumer Application Operations Champion**   
 ✅ **AWS Certified Cloud Practitioner (CLF-C01)**  
 ✅ **Microsoft Azure & Security Fundamentals (AZ-900, SC-900)**  
-✅ **Netskope Certified Cloud Security Administrator & Integrator (NKS100, NKS200)**  
+✅ **Netskope Certified Cloud Security Administrator & Integrator (NSK100, NSK200)**  
 ✅ **Data Protection & Compliance (LGPD, GDPR)**   
 ✅ **Forescout Engineer Certification**  
 
