@@ -105,13 +105,6 @@ Repository for the **OXE Collective** project, featuring **AI-driven automation*
 
 ---
 
-## 🏆 GitHub Trophies:  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=florenciotarson&theme=onedark&no-bg=true&margin-w=5">
-</p>
-
----
-
 
 ## 🚀 Want to collaborate?  
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/tarsonmarceloflorencio) or check out my projects on [GitHub](https://github.com/florenciotarson)! 
