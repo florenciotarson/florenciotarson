@@ -9,7 +9,6 @@
 ##  About Me  
 🔒 **Security Engineer | IAM | IGA | Cybersecurity Analyst | Threat Detection**  
 💡 **Specialist in Identity & Access Management (IAM), Cloud Security, & Zero Trust Architectures**  
-💻 **Expert in Python, JavaScript, Automation, Integration, Rest & Restful API, AWS, Azure, GCP, Okta, Auth0**  
 🌍 **Based in Brazil, Fluent in English, Portuguese, & Spanish (Limited Working Proficiency)**  
 
 ---
