@@ -57,12 +57,12 @@ Federal University of Bahia (UFBA), Graduate Program in Computer Science
 Focus: Distributed Systems, Resilience, Decentralized Infrastructure, Scientific Methodology
 
 **Associate Degree, Cybersecurity Technology**  
-SENAC São Paulo — October 2025 (Valedictorian)  
+SENAC São Paulo — Completed (Valedictorian)  
 GPA: 3.72/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
 
 **Associate Degree, Information Security Technology**  
-SENAC São Paulo — Completed  
-GPA: 3.72/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
+SENAC São Paulo — Completed (Valedictorian)  
+GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
 
 ---
 
