@@ -62,7 +62,7 @@ GPA: 3.72/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
 
 **Associate Degree, Information Security Technology**  
 SENAC São Paulo — Completed (Valedictorian)  
-GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
+GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.5/10
 
 ---
 
