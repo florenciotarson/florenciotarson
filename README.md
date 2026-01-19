@@ -1,6 +1,6 @@
 # Tarson Marcelo Florêncio Santos
 
-## Academic Researcher | Security Engineer | Distributed Systems
+## Academic Researcher | IAM Security Engineer | Distributed Systems
 
 **Location:** Salvador, Bahia, Brazil  
 **Email:** tarson@oxecollective.com  
