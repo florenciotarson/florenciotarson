@@ -162,8 +162,7 @@ Non-profit organization focused on accountability for police violence in Brazil.
 - **Phone:** +55 71 99690-5672
 - **LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
 - **GitHub:** [florenciotarson](https://github.com/florenciotarson)
-- **Organization:** OXE Collective
+
 
 ---
 
-*Last updated: January 2026*
