@@ -1,109 +1,169 @@
-#  Hello y'all, I'm Tarson Marcelo Florencio!  
+# Tarson Marcelo Florêncio Santos
 
-🔒 **Security Engineer | IAM | Cybersecurity Analyst**  
-💻 **Python | JavaScript | Automation | Linux | Security Engineering**  
-🌍 **Based in Brazil**  
+## Academic Researcher | Security Engineer | Distributed Systems
 
----
-
-##  About Me  
-🔒 **Security Engineer | IAM | IGA | Cybersecurity Analyst | Threat Detection**  
-💡 **Specialist in Identity & Access Management (IAM), Cloud Security, & Zero Trust Architectures**  
-🌍 **Based in Brazil, Fluent in English, Portuguese, & Spanish (Limited Working Proficiency)**  
+**Location:** Salvador, Bahia, Brazil  
+**Email:** tarson@oxecollective.com  
+**LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
 
 ---
 
-## 🛡️ Enhanced Security & Cloud Expertise  
-I specialize in **Identity and Access Governance (IAM/IGA)** with extensive experience implementing **Okta, Auth0, AWS IAM, and Entra ID**. My expertise includes:
+## Current Position
 
-- **Identity Lifecycle Management:** SSO, MFA, RBAC, Zero Trust Architectures.  
-- **Security Compliance & Regulations:** SOC2, NIST, GDPR/LGPD, PCI DSS.  
-- **Cloud Security:** IAM controls across AWS, Azure, and GCP.  
-- **Threat Detection & SIEM Tools:** Experience with **Splunk, CrowdStrike, FortiSIEM, SeceonSIEM**.  
-- **Automation & Development:** Python, JavaScript, Bash, PowerShell, Terraform, Kubernetes, and Docker.  
-
-🎯 **Key Achievements:**
-- Implemented **Zero Trust Access Models** with adaptive security policies.  
-- Automated IAM processes, improving onboarding, offboarding, and role-based access.  
-- Reduced IAM security risks by enhancing **API-driven access controls**.  
-- Developed **AI-driven automation** solutions for security monitoring.  
+**Master's Candidate in Computer Science**  
+Federal University of Bahia (UFBA), MSc Program in Computer Science  
+Advisor: Prof. Leobino N. Sampaio, Ph.D. (Institute of Computing, UFBA)  
+Expected graduation: December 2027
 
 ---
 
-## 🎓 Certifications    
-✅ **Okta Activated**  
-✅ **Okta Certified Administrator & Professional**  
-✅ **Auth0 Specialist**  
-✅ **Auth0 Consumer Application Implementation Champion**  
-✅ **Auth0 Consumer Application Operations Champion**   
-✅ **AWS Certified Cloud Practitioner (CLF-C01)**  
-✅ **Microsoft Azure & Security Fundamentals (AZ-900, SC-900)**  
-✅ **Netskope Certified Cloud Security Administrator & Integrator (NSK100, NSK200)**  
-✅ **Data Protection & Compliance (LGPD, GDPR)**   
-✅ **Forescout Engineer Certification**  
+## Research Focus
+
+**Master's Thesis: Systematic Evaluation of Gossip/Broadcast Protocols in Blockchains**
+
+Focus: Distributed systems, protocol evaluation methodologies, and scientific rigor in blockchain networking research.
+
+Expected submission: Distributed systems venue (December 2027)
+
+*Research details under embargo until publication*
 
 ---
 
-## 🚀 Featured Work & Security Contributions  
-### 🛠️ IAM & Cloud Security Projects  
-- Led **enterprise-wide IAM security transformations** for government & corporate clients.  
-- Developed **IAM automation scripts using Python & PowerShell** to enhance security operations.  
-- Integrated **authentication security protocols (OAuth, SAML, OpenID, SCIMv2, FIDO2, RADIUS, WS-Fed).**  
+## Professional Experience
 
-### 🌐 Threat Detection & SOC Experience  
-- Monitored security threats using **Splunk, FortiSIEM, Seceon Siem, CrowdStrike, Trellix EDR, and Netskope**.  
-- Developed **SIEM dashboards & log analysis queries** to detect vulnerabilities.  
-- Implemented **adaptive security controls & encryption techniques** (RSA, AES).  
+**4+ years: Identity and Access Management (IAM) / Identity Governance and Administration (IGA)**
 
-### 📌 DevSecOps & Infrastructure Security  
-- Built **CI/CD pipelines** for secure deployments using **Terraform, Docker, Kubernetes, & GitHub Actions**.  
-- Automated security assessments & compliance monitoring for **PCI DSS, ISO 27001, and NIST 800-53**.  
+Implemented enterprise-grade IAM/IGA systems including Okta, Auth0, AWS IAM, and Entra ID for government and corporate clients. Technical expertise includes:
 
----
+- Identity Lifecycle Management: SSO, MFA, RBAC, Zero Trust architecture design
+- Security Compliance: SOC2, NIST, GDPR/LGPD, PCI DSS, ISO 27001
+- Cloud Security: IAM controls across AWS, Azure, GCP
+- Authentication Protocols: OAuth 2.0, SAML 2.0, OpenID Connect, SCIMv2, FIDO2
+- Threat Detection & SIEM: Splunk, CrowdStrike, FortiSIEM, Seceon SIEM
+- Infrastructure Automation: Python, PowerShell, Bash, Terraform, Kubernetes, Docker
 
-## 🚀 OXE Collective  
-[![OXE Collective](https://i.imgur.com/2ocoeAo.png)](https://www.oxecollective.com)
-
-OXE Collective is an evolving platform exploring **AI-driven automation and cybersecurity solutions**.  
-OXE Collective highlights **OXE AI**, a custom artificial intelligence assistant designed to offer insights into the OXE Collective mission.  
-
-🚀 **Built With:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-05D362?style=flat&logo=upstash&logoColor=white)
-![Contentlayer](https://img.shields.io/badge/Contentlayer-FF5733?style=flat&logo=contentlayer&logoColor=white)
-
-> **🔗 Visit OXE Collective**  [OXE Website](https://www.oxecollective.com)  
+**Representative Projects:**
+- Designed and deployed Zero Trust Access Models with adaptive security policies
+- Automated IAM onboarding, offboarding, and role-based access provisioning
+- Reduced IAM security risk surface through API-driven access control enhancement
+- Developed security monitoring automation using Python
 
 ---
 
-## 🔒 Private Repositories  
-🚀 **OXE Collective** - *Private Repository*  
+## Education
 
-Repository for the **OXE Collective** project, featuring **AI-driven automation**.  
-🔐 **This repository is private and requires access permissions.**  
+**Master of Science, Computer Science (Expected December 2027)**  
+Federal University of Bahia (UFBA), Graduate Program in Computer Science  
+Focus: Distributed Systems, Resilience, Decentralized Infrastructure, Scientific Methodology
 
-> 🚀 If you're part of the team, request access here:  
-> 📩 **[Request Access via GitHub Issue](https://github.com/florenciotarson/oxecollective/issues/new?title=Request+Access+to+Private+Repo&body=Hello!+I+would+like+to+request+access+to+OXE+Collective.+My+GitHub+username+is:+%5Byour_username%5D)**  
+**Associate Degree, Cybersecurity Technology**  
+SENAC São Paulo — October 2025 (Valedictorian)  
+GPA: 3.72/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
 
-> 📝 **Or request via Google Form:**  
-> [![Request Access](https://img.shields.io/badge/Request%20Access-Click%20Here-blue?style=flat&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSfLNKOb-sH6pjwNynSdVOsx4OIcf3G2xiS0tTR-6J2eRkhOXw/viewform?usp=header)
-
-> 🔗 **Private Repo Link (Requires Access):**  
-> [![OXE Collective](https://img.shields.io/badge/Private_Repo-OXE_Collective-red?style=flat&logo=github)](https://github.com/florenciotarson/oxecollective/tree/dev)
-
----
+**Associate Degree, Information Security Technology**  
+SENAC São Paulo — Completed  
+GPA: 3.72/4.0 (converted from 0–10 scale); Cumulative: 9.3/10
 
 ---
 
-## 📊 GitHub Stats:  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florenciotarson&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florenciotarson&theme=dark" width="48%">
-</p>
+## Certifications & Credentials
+
+**Identity & Access Management**
+- Okta Certified Administrator
+- Okta Certified Professional
+- Auth0 Specialist
+- Auth0 Consumer Application Implementation Champion
+- Auth0 Consumer Application Operations Champion
+
+**Cloud & Security**
+- AWS Certified Cloud Practitioner (CLF-C01)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Security Fundamentals (SC-900)
+- Netskope Certified Cloud Security Administrator (NSK100)
+- Netskope Certified Cloud Security Integrator (NSK200)
+- Forescout Engineer Certification
+
+**Compliance & Data Protection**
+- LGPD (Brazilian Data Protection Law)
+- GDPR (General Data Protection Regulation)
 
 ---
 
+## Technical Skills
 
-## 🚀 Want to collaborate?  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/tarsonmarceloflorencio) or check out my projects on [GitHub](https://github.com/florenciotarson)! 
+**Programming & Scripting:** Python, JavaScript, Bash, PowerShell  
+**Distributed Systems:** Gossip protocols, Byzantine-tolerant consensus, P2P networks, epidemic algorithms  
+**Machine Learning / NLP:** BERTimbau, Hugging Face Transformers, fine-tuning, transfer learning  
+**Blockchain & Cryptography:** Ethereum testnet, W3C Verifiable Credentials, Ed25519 signatures, cryptographic verification  
+**Cloud & Infrastructure:** AWS, Azure, GCP, Terraform, Docker, Kubernetes, GitHub Actions, CI/CD pipelines  
+**Security & Monitoring:** Okta, Auth0, AWS IAM, Entra ID, Splunk, CrowdStrike, SIEM dashboards, compliance automation  
+**Data Analysis & Statistics:** Network traffic analysis, vulnerability assessment, risk mitigation, statistical validation  
+**Research Methodology:** PRISMA framework, systematic reviews, codebook operationalization, inter-rater reliability validation
+
+---
+
+## Languages
+
+- **Portuguese:** Native
+- **English:** Fluent (professional and academic)
+- **Spanish:** Limited working proficiency
+
+---
+
+## Research Interests
+
+- Scientific rigor and reproducibility in distributed systems research
+- Gossip and broadcast protocols for resilient, decentralized networks
+- Methodological frameworks applied to computer science
+- Byzantine-resilient protocols for resource-constrained and heterogeneous environments
+- Decentralized identity and verifiable credentials
+- Technology for human rights and accountability
+- Fake news detection and misinformation analysis
+- Security and privacy in decentralized systems
+
+---
+
+## Projects & Repositories
+
+**Accountability Infrastructure Prototype** (In progress)
+- Implementation of Push-Pull Epidemic gossip protocol (libp2p)
+- Fine-tuned BERTimbau classifier for incident categorization
+- W3C Verifiable Credentials schema and smart contract integration (Ethereum testnet)
+- Integrated evaluation framework and documentation
+
+**Network Analysis & Risk Assessment**
+- Exploratory data analysis on network traffic and blockchain datasets
+- Security vulnerability identification and mitigation strategy development
+
+---
+
+## Collaborations & Partnerships
+
+**Instituto Fogo Cruzado** (Pending formal partnership)  
+Non-profit organization focused on accountability for police violence in Brazil. Proposed partnership: development of automated data pipelines and NLP-driven incident documentation to scale monitoring from 4 to 27 Brazilian state capitals.
+
+---
+
+## Publications & Presentations
+
+**Master's Thesis Research** (Under development)
+- Systematic evaluation of gossip/broadcast protocols in blockchain networks
+- Expected submission: Distributed systems venue (December 2027)
+
+**Future Publications** (Planned)
+- Automated Incident Classification for Human Rights Documentation (NLP/security venue)
+- Decentralized Accountability Infrastructure: Design and Security Analysis (cybersecurity venue)
+
+---
+
+## Contact & Social
+
+- **Email:** tarson@oxecollective.com
+- **Phone:** +55 71 99690-5672
+- **LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
+- **GitHub:** [florenciotarson](https://github.com/florenciotarson)
+- **Organization:** OXE Collective
+
+---
+
+*Last updated: January 2026*
