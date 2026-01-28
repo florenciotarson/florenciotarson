@@ -2,7 +2,6 @@
 
 ## Academic Researcher | IAM Security Engineer | Distributed Systems
 
-**Location:** Salvador, Bahia, Brazil  
 **Email:** tarson@oxecollective.com  
 **LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
 
@@ -13,7 +12,6 @@
 **Master's Candidate in Computer Science**  
 Federal University of Bahia (UFBA), MSc Program in Computer Science  
 Advisor: Prof. Leobino N. Sampaio, Ph.D. (Institute of Computing, UFBA)  
-Expected graduation: December 2027
 
 ---
 
