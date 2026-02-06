@@ -10,8 +10,7 @@
 ## Current Position
 
 **Master's Candidate in Computer Science**  
-Federal University of Bahia (UFBA), MSc Program in Computer Science  
-Advisor: Prof. Leobino N. Sampaio, Ph.D. (Institute of Computing, UFBA)  
+Federal University of Bahia (UFBA), MSc Program in Computer Science   
 
 ---
 
