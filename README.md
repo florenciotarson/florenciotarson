@@ -21,8 +21,6 @@ Focus: Distributed systems, protocol evaluation methodologies, and scientific ri
 
 Expected submission: Distributed systems venue (December 2027)
 
-*Research details under embargo until publication*
-
 ---
 
 ## Professional Experience
@@ -94,8 +92,6 @@ GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.39/10
 **Network Analysis & Risk Assessment**
 - Exploratory data analysis on network traffic and blockchain datasets
 - Security vulnerability identification and mitigation strategy development
-
----
 
 ---
 
