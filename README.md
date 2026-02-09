@@ -1,6 +1,5 @@
 # Tarson Marcelo Florêncio Santos
 
-## Academic Researcher | IAM Security Engineer | Distributed Systems
 
 **Email:** tarson@oxecollective.com  
 **LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
@@ -9,7 +8,7 @@
 
 ## Current Position
 
-**Master's Candidate in Computer Science**  
+**Master's Student in Computer Science**  
 Federal University of Bahia (UFBA), MSc Program in Computer Science   
 
 ---
@@ -63,42 +62,6 @@ GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.39/10
 
 ---
 
-## Certifications & Credentials
-
-**Identity & Access Management**
-- Okta Certified Administrator
-- Okta Certified Professional
-- Auth0 Specialist
-- Auth0 Consumer Application Implementation Champion
-- Auth0 Consumer Application Operations Champion
-
-**Cloud & Security**
-- AWS Certified Cloud Practitioner (CLF-C01)
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Security Fundamentals (SC-900)
-- Netskope Certified Cloud Security Administrator (NSK100)
-- Netskope Certified Cloud Security Integrator (NSK200)
-- Forescout Engineer Certification
-
-**Compliance & Data Protection**
-- LGPD (Brazilian Data Protection Law)
-- GDPR (General Data Protection Regulation)
-
----
-
-## Technical Skills
-
-**Programming & Scripting:** Python, JavaScript, Bash, PowerShell  
-**Distributed Systems:** Gossip protocols, Byzantine-tolerant consensus, P2P networks, epidemic algorithms  
-**Machine Learning / NLP:** BERTimbau, Hugging Face Transformers, fine-tuning, transfer learning  
-**Blockchain & Cryptography:** Ethereum testnet, W3C Verifiable Credentials, Ed25519 signatures, cryptographic verification  
-**Cloud & Infrastructure:** AWS, Azure, GCP, Terraform, Docker, Kubernetes, GitHub Actions, CI/CD pipelines  
-**Security & Monitoring:** Okta, Auth0, AWS IAM, Entra ID, Splunk, CrowdStrike, SIEM dashboards, compliance automation  
-**Data Analysis & Statistics:** Network traffic analysis, vulnerability assessment, risk mitigation, statistical validation  
-**Research Methodology:** PRISMA framework, systematic reviews, codebook operationalization, inter-rater reliability validation
-
----
-
 ## Languages
 
 - **Portuguese:** Native
@@ -133,11 +96,6 @@ GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.39/10
 - Security vulnerability identification and mitigation strategy development
 
 ---
-
-## Collaborations & Partnerships
-
-**Instituto Fogo Cruzado** (Pending formal partnership)  
-Non-profit organization focused on accountability for police violence in Brazil. Proposed partnership: development of automated data pipelines and NLP-driven incident documentation to scale monitoring from 4 to 27 Brazilian state capitals.
 
 ---
 
