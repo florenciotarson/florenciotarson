@@ -110,7 +110,6 @@ GPA: 3.89/4.0 (converted from 0–10 scale); Cumulative: 9.39/10
 ## Contact & Social
 
 - **Email:** tarson@oxecollective.com
-- **Phone:** +55 71 99690-5672
 - **LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
 
 
