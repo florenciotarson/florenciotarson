@@ -2,7 +2,7 @@
 
 
 **Email:** tarson@oxecollective.com  
-**LinkedIn:** [tarsonmarceloflorencio](https://www.linkedin.com/in/tarsonmarceloflorencio/)
+**All repos are private, sorry not sorry!:** 
 
 ---
 
